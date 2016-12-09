@@ -1,0 +1,28 @@
+package iut.unice.iut.info.methodo.s3a;
+
+enum HUMEUR_ENUM {
+    Default_Humeur,
+    Hyper_Bien,
+    Triste,
+    Très_Bien,
+    Cool,
+    En_colère,
+    Perplexe,
+    Soulagé,
+    Exaspéré,
+    Aimé,
+    Confiant,
+    Content,
+    Positif,
+    Déprimé,
+    Seul,
+    En_Paix,
+    Ennuyé,
+    Serein,
+    Affamé,
+    Stressé,
+    Calme,
+    A_peur,
+    A_le_coeur_brisé,
+    Satisfait,
+}
